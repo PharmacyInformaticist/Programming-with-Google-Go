@@ -1,4 +1,4 @@
-This my code for the exercises and assignments of the following 3 Golang Programming Courses:
+This is my code for the exercises and assignments of the following 3 Golang Programming Courses:
 
 1. Getting Started with Go
 The basics of Go, Topics include data types, protocols, formats, and writing code that incorporates RFCs and JSON. 
